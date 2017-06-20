@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/tab_1.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/layout/tab_1.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/fragment_top_authors.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/fragment_top_authors.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/navigation_drawer_divider.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/navigation_drawer_divider.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/tab_2.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/layout/tab_2.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/my_text_view.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/layout/my_text_view.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/tool_bar.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/tool_bar.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/navigation_drawer.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/layout/navigation_drawer.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/item_book.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/item_book.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/navigation_drawer_divider.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/layout/navigation_drawer_divider.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/fragment_top_books.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/fragment_top_books.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/item_one_book.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/item_one_book.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/tool_bar.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/layout/tool_bar.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/activity_book_detail.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/activity_book_detail.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/navigation_drawer.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/navigation_drawer.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/my_text_view.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/my_text_view.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/layout/fragment_categories.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/layout/fragment_categories.xml"
+    }
+]

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ahmed/.android/build-cache/f6cd691809e736cab2d7eb762360dad546b644fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/pre-dexed/debug/classes_14601513d5c5b6d59ad5383f923039c41b7601cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ahmed/.android/build-cache/2406707cd832c5492a02ddc7d5343599b9817747/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/pre-dexed/debug/classes_8ce6661ec5a359a1b408f5ce1d7bbc8fff7f6e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ahmed/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_ea55a6956bd5329499c68b6676159629d178161d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ahmed/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.15/9093a362d18c5f81f58e49d86dece57d9b6e1cb7/library-1.0.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/pre-dexed/debug/library-1.0.15_abd4d79f6aae61dc52d06b6268e24ed4f99e3033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ahmed/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8_eec02e9b4bf9484ec9fef4b3b56696f3dce7e355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ahmed/.android/build-cache/ece4e6b9d1b0d97feb31e29b39565f5d8ec85948/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/pre-dexed/debug/classes_82217e3653ea5d224ad24678debbc577a39119c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ahmed/.android/build-cache/2406707cd832c5492a02ddc7d5343599b9817747/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_3f1f6f2600481efb48a6b52a238559d2658da289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ahmed/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_51e5fb96e45e26551b66edb5b9de48d89ae95467.jar" />
+    </item>
+
+</items>

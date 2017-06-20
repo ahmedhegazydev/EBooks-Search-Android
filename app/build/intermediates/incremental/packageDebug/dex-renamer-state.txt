@@ -1,0 +1,4 @@
+#Tue Jun 20 09:49:36 EET 2017
+base.0=/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

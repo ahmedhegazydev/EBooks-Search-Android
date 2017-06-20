@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/menu/menu_share_book.xml",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/menu/menu_share_book.xml"
+    }
+]

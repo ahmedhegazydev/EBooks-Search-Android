@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_nocover.png",
+        "source": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/mipmap-mdpi/ic_nocover.png"
+    }
+]

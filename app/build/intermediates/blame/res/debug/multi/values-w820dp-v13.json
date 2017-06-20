@@ -1,0 +1,81 @@
+[
+    {
+        "outputFile": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/values-w820dp/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 40,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/values-w820dp/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 40,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 57,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/EBook Search Gogle API/app/src/main/res/values-w820dp/dimens.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/ahmed/Android_Studio_Plus_Projects/AndroidStudioProjects/Android-Sliding-Tabs-And-Navigation-Drawer-With-Material-Design-master/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    }
+]
